@@ -1,4 +1,4 @@
-## Functions that cache the inverse of a matrix----
+## Functions that cache the inverse of a matrix
 
 ## Creates a special "matrix" object that caches its inverse
 ## We assume that the matrix m is always invertible.
